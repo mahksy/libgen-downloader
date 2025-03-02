@@ -1,7 +1,7 @@
 {
   "latest_version": "2.0.3",
   "mirrors": [
-    "https://libgen.mx",
+    
     "https://libgenesis.net/"
   ],
   "searchReqPattern": "{mirror}search.php?&req={query}&page={pageNumber}&res={pageSize}&sort_mode=ASC",
